@@ -1,0 +1,17 @@
+.pokefooter {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    bottom: 0;
+
+}
+.pokefooter__black {
+    position: relative;
+    background-color: black;
+    height: 30px;
+}
+.pokefooter__red {
+    position: relative;
+    background-color: #ff0000;
+    height: 65px;
+}
